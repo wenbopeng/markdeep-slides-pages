@@ -4,8 +4,6 @@
 # 忽略 PDF
 *.pdf
 
-# 忽略 HTML
-*.html
 
 # 缓存 & 临时文件
 *.log
